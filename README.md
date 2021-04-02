@@ -3,7 +3,10 @@ This is a flutter project inspired in this design: https://dribbble.com/shots/14
 
 This was the result:
 
-https://user-images.githubusercontent.com/8674244/113373237-0534ed00-9330-11eb-84dc-ee871aaec29e.mp4
+
+https://user-images.githubusercontent.com/8674244/113373351-3f9e8a00-9330-11eb-9109-418981f42262.mp4
+
+
 
 
 
