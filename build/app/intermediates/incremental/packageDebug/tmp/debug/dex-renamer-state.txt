@@ -1,4 +1,0 @@
-#Thu Apr 01 18:08:23 PET 2021
-base.0=/home/juan/Documentos/Juan/reto_cafes/coffee_challenge/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
