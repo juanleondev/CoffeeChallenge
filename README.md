@@ -1,16 +1,9 @@
-# coffee_challenge
+# Coffee Challenge
+This is a flutter project inspired in this design: https://dribbble.com/shots/14166097-Coffee-App?utm_source=pinterest&utm_campaign=pinterest_shot&utm_content=Coffee+App&utm_medium=Social_Share.
 
-A new Flutter project.
 
-## Getting Started
+I used the following things to complete the challenge.
+- State management with GetX
+- Stack + Implicit animations
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
